@@ -1,7 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Playfair+Display&display=swap');
 .App {
   text-align: center;
+  font-family: 'Playfair Display', serif;
 }
-
+.App h1{
+  font-size:3.5em;
+}
+/* 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +40,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
